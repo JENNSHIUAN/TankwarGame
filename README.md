@@ -2,7 +2,7 @@
 
 This is a simple game built in C++ and rlutil.
 [Rlutil](https://github.com/tapio/rlutil) is simple utility collection to aid the creation of cross-platform console-mode roguelike games with C++.
-All you need to play are using computer keyboard following the instruction:
+All you need to play are using computer keyboard following the instruction below:
 
 ### PLAYER1
 
