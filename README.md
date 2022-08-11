@@ -6,6 +6,7 @@ This is a simple game built in C++ and rlutil.
 ## DEMO
 
 The following is the output of tankwar game.
+
 ![alt text](assets/tankgame.JPG)
 
 ## REMARKS
