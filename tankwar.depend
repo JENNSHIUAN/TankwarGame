@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1514279560 source:d:\tankwar\main.cpp
+	<iostream>
+	"rlutil.h"
+	"player.h"
+
+1511805110 d:\tankwar\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1429150766 source:d:\tankwar\rlutil.cpp
+	"rlutil.h"
+
+1514280394 source:d:\tankwar\player.cpp
+	"player.h"
+	"rlutil.h"
+	<cstdlib>
+
+1514280981 d:\tankwar\player.h
+
+1514876069 source:c:\users\稼花\desktop\c++\tankwar\main.cpp
+	<iostream>
+	<vector>
+	"rlutil.h"
+	"player.h"
+	"road.h"
+	"bomb.h"
+
+1514847196 c:\users\稼花\desktop\c++\tankwar\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1514846722 c:\users\稼花\desktop\c++\tankwar\player.h
+	"road.h"
+
+1514873041 source:c:\users\稼花\desktop\c++\tankwar\player.cpp
+	"player.h"
+	"rlutil.h"
+	<cstdlib>
+	"road.h"
+
+1514817407 source:c:\users\稼花\desktop\c++\tankwar\road.cpp
+	"road.h"
+	"rlutil.h"
+	<cstdlib>
+
+1514817747 c:\users\稼花\desktop\c++\tankwar\road.h
+
+1514844990 source:c:\users\稼花\desktop\c++\tankwar\bomb.cpp
+	"bomb.h"
+	"player.h"
+	"rlutil.h"
+	<cstdlib>
+	"road.h"
+
+1514873041 c:\users\稼花\desktop\c++\tankwar\bomb.h
+	"player.h"
+
+1640859629 source:c:\users\iy0125\frank\side_project\tankwar\bomb.cpp
+	"bomb.h"
+	"player.h"
+	"rlutil.h"
+	<cstdlib>
+	"road.h"
+
+1641266553 c:\users\iy0125\frank\side_project\tankwar\bomb.h
+	"player.h"
+
+1641264467 c:\users\iy0125\frank\side_project\tankwar\player.h
+	"road.h"
+
+1638931852 c:\users\iy0125\frank\side_project\tankwar\road.h
+
+1638926800 c:\users\iy0125\frank\side_project\tankwar\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1641265428 source:c:\users\iy0125\frank\side_project\tankwar\main.cpp
+	<iostream>
+	<vector>
+	"rlutil.h"
+	"player.h"
+	"road.h"
+	"bomb.h"
+
+1641265132 source:c:\users\iy0125\frank\side_project\tankwar\player.cpp
+	"player.h"
+	"rlutil.h"
+	<cstdlib>
+	"road.h"
+
+1638931837 source:c:\users\iy0125\frank\side_project\tankwar\road.cpp
+	"road.h"
+	"rlutil.h"
+	<cstdlib>
+
